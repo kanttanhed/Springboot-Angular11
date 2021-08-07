@@ -1,4 +1,4 @@
-package com.pliniosalazar.todo.repositories;
+package com.pliniosalazar.todo.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
